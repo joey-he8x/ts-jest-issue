@@ -1,0 +1,21 @@
+{
+  "name": "Singularx.api",
+  "version": "2.0.0",
+  "description": "microservice for singularx",
+  "author": "Ian.He",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "web3": "^1.0.0-beta.24",
+    "web3-eth": "^1.0.0-beta.24"
+  },
+  "devDependencies": {
+    "@types/jest": "^21.1.8",
+    "@types/node": "^7.0.50",
+    "jest": "^22.3.0",
+    "ts-jest": "^22.0.4",
+    "typescript": "^2.7.1"
+  }
+}
