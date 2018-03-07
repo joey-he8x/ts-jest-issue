@@ -1,8 +1,6 @@
 {
-  "name": "Singularx.api",
-  "version": "2.0.0",
-  "description": "microservice for singularx",
-  "author": "Ian.He",
+  "name": "test",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "test": "jest"
